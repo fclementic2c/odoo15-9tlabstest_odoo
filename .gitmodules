@@ -1,0 +1,4 @@
+[submodule "camptocamp/smartcamp_core_private"]
+	path = camptocamp/smartcamp_core_private
+	url = git@github.com:camptocamp/smartcamp_core_private.git
+	branch = 15.0
